@@ -6,3 +6,5 @@
 4. Logistic Regression
 5. Clustering
 6. PCA
+7. Association Rules
+8. Decision Trees
