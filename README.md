@@ -8,3 +8,5 @@
 6. PCA
 7. Association Rules
 8. Decision Trees
+9. Random Forest
+10. KNN
