@@ -10,3 +10,5 @@
 8. Decision Trees
 9. Random Forest
 10. KNN
+11. Support Vector Machines
+12. Recommendation System
