@@ -12,3 +12,5 @@
 10. KNN
 11. Support Vector Machines
 12. Recommendation System
+13. Neural Networks
+14. Text Mining
