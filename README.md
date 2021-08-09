@@ -14,3 +14,5 @@
 12. Recommendation System
 13. Neural Networks
 14. Text Mining
+15. Naive Bayes
+16. Forecasting
